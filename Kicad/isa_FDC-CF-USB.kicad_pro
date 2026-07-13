@@ -1110,7 +1110,7 @@
         "uuid": "4f009445-fbde-4f6b-8ad7-9784bd8622a1"
       }
     ],
-    "used_designators": "#PWR91-170,C38-41",
+    "used_designators": "SW4,#PWR91-176,C38-41",
     "variants": []
   },
   "sheets": [
